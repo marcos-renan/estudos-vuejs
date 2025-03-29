@@ -1,8 +1,9 @@
 <script setup>
-  let nome = "Marcos Renan";
+import Exemplo1 from './components/Exemplo1.vue';
 </script>
 
 <template>
-  <h1>{{ 'Olá, seja bem-vindo' + nome }}</h1>
-  <h2>Olá Mundo!</h2>
+
+  <Exemplo1></Exemplo1>
+
 </template>
