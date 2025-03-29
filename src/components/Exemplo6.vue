@@ -1,7 +1,8 @@
 Diretiva v-model
 <script setup>
+//para criar variavel reatia
 import { ref } from 'vue';
-
+    //variavel reativa
     let texto = ref('');
 </script>
 
