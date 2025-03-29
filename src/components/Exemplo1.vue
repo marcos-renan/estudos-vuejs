@@ -1,3 +1,4 @@
+//meu primeiro componente vue
 <script setup>
   let nome = "Marcos Renan";
 </script>

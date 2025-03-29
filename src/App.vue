@@ -1,9 +1,10 @@
 <script setup>
-import Exemplo1 from './components/Exemplo1.vue';
+//import Exemplo1 from './components/Exemplo1.vue';
+import Exemplo2 from './components/Exemplo2.vue';
 </script>
 
 <template>
 
-  <Exemplo1></Exemplo1>
+  <Exemplo2 />
 
 </template>
