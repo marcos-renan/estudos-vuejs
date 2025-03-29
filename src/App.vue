@@ -5,12 +5,13 @@
 //import Exemplo4 from './components/Exemplo4.vue';
 //import Exemplo5 from './components/Exemplo5.vue';
 //import Exemplo6 from './components/Exemplo6.vue';
-import Exemplo7 from './components/Exemplo7.vue';
+//import Exemplo7 from './components/Exemplo7.vue';
+import Exemplo8 from './components/Exemplo8.vue'
 
 </script>
 
 <template>
 
-  <Exemplo7 />
+  <Exemplo8 />
 
 </template>
