@@ -8,12 +8,13 @@
 //import Exemplo7 from './components/Exemplo7.vue';
 //import Exemplo8 from './components/Exemplo8.vue'
 //import Exemplo9 from './components/Exemplo9.vue';
-import Exemplo10 from './components/Exemplo10.vue';
+//import Exemplo10 from './components/Exemplo10.vue';
+import Exemplo11 from './components/Exemplo11.vue';
 
 </script>
 
 <template>
 
-  <Exemplo10 />
+  <Exemplo11 />
 
 </template>
